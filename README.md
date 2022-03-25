@@ -1,3 +1,5 @@
+<img src="logo-white.svg" height="90" align="right">
+
 # Sealine OS
 
 Home of the Sealine Linux distribution. Work in progress.
