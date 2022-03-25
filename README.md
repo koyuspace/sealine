@@ -1,6 +1,7 @@
 # Sealine OS
 
 Home of the Sealine Linux distribution. Work in progress.
+
 Also available through Gemini at gemini://koyu.space/sealine/
 
 Some objectives:
